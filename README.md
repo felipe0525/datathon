@@ -48,3 +48,6 @@ Los datos utilizados en este proyecto provienen del conjunto de datos del Datato
 - Definición de una función de aptitud para evaluar las combinaciones.
 - Implementación de un algoritmo genético que incluye generación de población inicial, selección por torneo, cruce y mutación de combinaciones.
 - Optimización para encontrar la mejor combinación que minimice la diferencia con la demanda.
+
+  ## Nota
+- Para incremtenar la posibildad de un mejor resultado, incremente el numero de iteraciones en `convergencia.py`
